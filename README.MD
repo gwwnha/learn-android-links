@@ -8,3 +8,4 @@
 ## E-Book
 
 * [Shell脚本教程](http://c.biancheng.net/cpp/shell/)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
